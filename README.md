@@ -1,5 +1,9 @@
 # Path Doctor
 
+[Website](https://uwanggood.github.io/path-doctor-releases/) · [itch.io](https://uwanggood.itch.io/path-doctor) · [Latest release](https://github.com/Uwanggood/path-doctor-releases/releases/tag/v1.0.0)
+
+![Path Doctor cover](media/path-doctor-cover.png)
+
 Path Doctor is a small Windows desktop tool that helps explain why a website, server, or network route feels slow, blocked, or unreachable.
 
 ## Download
@@ -19,6 +23,14 @@ Use it when:
 - you need a support-friendly diagnostic summary
 - you want to compare local network behavior before blaming an app, ISP, VPN, or server
 
+## Screenshots
+
+![Dashboard](media/path-doctor-screenshot-dashboard.png)
+
+![Route analysis](media/path-doctor-screenshot-route-analysis.png)
+
+![Updates](media/path-doctor-screenshot-updates.png)
+
 ## Release Status
 
 - Windows is available now.
@@ -28,7 +40,7 @@ Use it when:
 ## Safety Note
 
 This first public build is not code-signed yet, so Windows SmartScreen may show a warning.
-Only download Path Doctor from this official release repository or the linked itch.io page.
+Only download Path Doctor from this official release repository, the GitHub Pages website, or the linked itch.io page.
 
 Windows v1.0.0 SHA-256:
 
