@@ -1,6 +1,6 @@
 # Path Doctor
 
-[Website](https://uwanggood.github.io/path-doctor-releases/) · [itch.io](https://uwanggood.itch.io/path-doctor) · [Latest release](https://github.com/Uwanggood/path-doctor-releases/releases/tag/v1.0.0)
+[Website](https://uwanggood.github.io/path-doctor-releases/) · [itch.io](https://uwanggood.itch.io/path-doctor) · [Ko-fi](https://ko-fi.com/uwanggood) · [Latest release](https://github.com/Uwanggood/path-doctor-releases/releases/tag/v1.0.0)
 
 ![Path Doctor cover](media/path-doctor-cover.png)
 
@@ -11,6 +11,7 @@ Path Doctor is a small Windows desktop tool that helps explain why a website, se
 - Windows installer: [path-doctor-setup-v1.0.0.exe](https://github.com/Uwanggood/path-doctor-releases/releases/download/v1.0.0/path-doctor-setup-v1.0.0.exe)
 - Latest release: [Path Doctor v1.0.0](https://github.com/Uwanggood/path-doctor-releases/releases/tag/v1.0.0)
 - itch.io page: [uwanggood.itch.io/path-doctor](https://uwanggood.itch.io/path-doctor)
+- Ko-fi support: [ko-fi.com/uwanggood](https://ko-fi.com/uwanggood)
 
 ## What It Checks
 
